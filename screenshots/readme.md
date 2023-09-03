@@ -1,3 +1,3 @@
 1. 실행결과
 
-![다운로드]https://github.com/zzozzo0427/PP1_Project1/blob/main/screenshots/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202023-09-01%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%205.02.12.png?raw=true
+<img width="1211" alt="스크린샷 2023-09-01 오후 5 02 12" src="https://github.com/zzozzo0427/PP1_Project1/assets/126746783/6c1503d4-ef36-4f16-afd8-76c99035ea5d">
